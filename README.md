@@ -1,14 +1,10 @@
 # FileBasedDataMiningFramework
-<title>This is a framework for file-based data mining jobs.</title>
+This is a framework for file-based data mining jobs.
 
 Frame:
-
   1.Data Management.
-  
   2.Data Processing and Preprocessing.
-  
   3.Model of Machine Learning and Data Mining.
-  
   4.Analysis function of Source Data and Model Verification.
   5.Visualization of Source Data and Analysis Result.
   6.Pipeline function for transform data between different core modules.
