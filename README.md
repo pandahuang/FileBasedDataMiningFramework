@@ -1,5 +1,5 @@
 # FileBasedDataMiningFramework
-This is a framework for file-based data mining jobs.
+<title>This is a framework for file-based data mining jobs.</title>
 
 Frame:
 
